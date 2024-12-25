@@ -1,1 +1,2 @@
 hey this is a text file
+hey new feature is added
